@@ -4047,6 +4047,13 @@
             }
         }
 
+
+        @media (max-width:768px) {
+            .imgg{
+                width: 250px;
+            }
+        }
+
         .pt-hero-head {
             display: -webkit-box;
             display: -webkit-flex;
