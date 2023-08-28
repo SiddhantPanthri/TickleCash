@@ -6001,7 +6001,8 @@
 
         @media (min-width:1200px) {
             .pt-advantage-figure {
-                height: 694px
+                height: 694px ;
+                width: 600px;
             }
         }
 
