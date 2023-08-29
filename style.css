@@ -5986,6 +5986,25 @@
             }
         }
 
+        @media (min-width:768px) {
+           .btnsid{
+            width: 500px;
+           }
+           .boxsid{
+            height: 590px ;
+            width: 600px;
+           }
+        }
+        @media (max-width:768px) {
+            .btnsid{
+             width: 300px;
+            }
+            .boxsid{
+                height:590px ;
+                width: 350px;
+               }
+         }
+
         @media (min-width:1024px) {
             .pt-advantage-figure {
                 position: absolute;
