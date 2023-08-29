@@ -6001,7 +6001,7 @@
 
         @media (min-width:1200px) {
             .pt-advantage-figure {
-                height: 694px ;
+                height: 590px ;
                 width: 600px;
             }
         }
@@ -6890,6 +6890,8 @@
                 margin: 0 0 20px
             }
         }
+
+
 
         .pt-faq-item:before {
             position: absolute;
